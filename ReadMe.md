@@ -1,6 +1,6 @@
 <img align="right" src="Shared/dxultimate64.png" />
 
-## DxUltimate Sample: LayoutControl - Back Color in Tabbed Group 
+## DxUltimate Sample: LayoutControl - Back Color in Tabbed Group of DevExpress LayoutControl  
 
 ### 1. Introduction 
 
